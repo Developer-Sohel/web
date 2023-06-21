@@ -1,0 +1,61 @@
+
+@media (max-width: 400px) {
+    #About{
+        align-items: center;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .text h1{
+        font-size: 30px;
+        
+        text-align: center;
+        
+    }
+    .text h4{
+        font-size: 20px;
+        text-align: center;
+    }
+    .tex p{
+        text-align: center;
+        font-size: 16px;
+    }
+    .tex .btn{
+        text-align: center;
+    }
+    .img1{
+        align-items: center;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 600px) {
+    #About{
+        align-items: center;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .text h1{
+        font-size: 33px;
+        
+        text-align: center;
+        
+    }
+    .text h4{
+        font-size: 24px;
+        text-align: center;
+    }
+    .tex p{
+        text-align: center;
+        font-size: 17px;
+    }
+    .tex .btn{
+        text-align: center;
+       
+        
+    }
+    .img1{
+        
+        text-align: center;
+    }
+  }
